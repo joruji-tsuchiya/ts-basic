@@ -1,0 +1,8 @@
+メモ
+名前解決
+null
+undefined
+unknown型
+number型
+any型
+export
