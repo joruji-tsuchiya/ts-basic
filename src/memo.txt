@@ -6,3 +6,18 @@ unknown型
 number型
 any型
 export
+
+オプションパラメーター
+const isUserSignedIn = (userId: string, username?: string): boolean => {
+    //省略
+}
+
+可変長引数
+引数を幾つ渡してもいい
+
+レストパラメータ
+
+呼び出しシグネチャ
+＞関数名＋引数の型＋戻り値のかた
+
+
